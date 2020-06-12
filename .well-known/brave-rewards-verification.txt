@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: heisenberg01010.github.io
+Token: 8faccdd941aab70f5cf9e54d25fd7cb4b27c082652dedae2813c476ac937168c
